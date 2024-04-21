@@ -1,0 +1,38 @@
+h1{
+    color: #FF8A56;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 72pt;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    font-size: 72pt; 
+    font-weight: bold;
+}
+.menu{
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    color: black;
+    padding:40px;
+}
+#logo{
+    height: 28px;
+    width: 203px;
+    margin: 20px;
+}
+#portrait{
+    height: 595px;
+    width: 500px;
+}
+a:hover{
+    color:#FF8A56
+}
+a:hover{
+    text-decoration: underline;
+}
+#main_text{
+    font-family: "Roboto", sans-serif;
+    font-size: 22pt;
+    font-weight: lighter;
+}
